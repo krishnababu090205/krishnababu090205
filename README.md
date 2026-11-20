@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Forward+Deployed+Engineer;AI+%26+Full+Stack+Developer;Building+AI-Powered+Solutions;Integrating+Technology+with+Business;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me
